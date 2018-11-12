@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="javas" value="&lt;script type=&quot;text/javascript&quot;&gt;&#10;    $INSERT$&#10;&lt;/script&gt;" description="javascript标签" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="INSERT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

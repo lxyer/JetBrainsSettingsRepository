@@ -1,0 +1,80 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerAvailableExternally="true" allowUnsignedRequests="true" />
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="9.9.0" last-modified="1521634202000" />
+    </local-interpreter>
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://47.94.103.7:18080/svn/wei_website" />
+        <option value="https://47.94.103.7:18080/svn/houseUnion" />
+        <option value="https://47.94.103.7:18080/svn/saas_mes_business" />
+        <option value="https://47.94.103.7:18080/svn/3dprinter" />
+        <option value="https://47.94.103.7:18080/svn/customer" />
+        <option value="https://47.94.103.7:18080/svn/haiju" />
+        <option value="https://47.94.103.7:18080/svn/lmd" />
+        <option value="https://47.94.103.7:18080/svn/fmd" />
+        <option value="https://47.94.103.7:18080/svn/Phd_dm" />
+        <option value="https://47.94.103.7:18080/svn/saas_business/trunk/system/service/business_system_service" />
+        <option value="https://47.94.103.7:18080/svn/saas_sys/trunk/service/system_service" />
+        <option value="https://47.94.103.7:18080/svn/ftr_abc" />
+        <option value="https://47.94.103.7:18080/svn/web" />
+        <option value="https://47.94.103.7:18080/svn/saas_sys/trunk" />
+        <option value="https://47.94.103.7:18080/svn/saas_business/trunk" />
+        <option value="https://47.94.103.7:18080/svn/saas_mes_business/trunk/service/" />
+        <option value="https://47.94.103.7:18080/svn/codereview" />
+        <option value="https://47.94.103.7:18080/svn/saas_business" />
+        <option value="https://47.94.103.7:18080/svn/saas_sys" />
+        <option value="https://47.94.103.7:18080/svn/base_frame_pro/see_generator" />
+        <option value="https://47.94.103.7:18080/svn/base_frame_pro/base_frame_pro" />
+        <option value="https://47.94.103.7:18080/svn/apartmentcheckapi" />
+        <option value="http://192.168.1.225/svn/development/BJYQ/YQ_BIGlaw" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://47.94.103.7:18080/svn/wei_website" />
+        <option value="https://47.94.103.7:18080/svn/saas_sys/" />
+        <option value="https://47.94.103.7:18080/svn/saas_business/trunk/system/service/business_system_service" />
+        <option value="https://47.94.103.7:18080/svn/saas_sys/trunk/service/system_service" />
+        <option value="https://47.94.103.7:18080/svn/ftr_abc" />
+        <option value="https://47.94.103.7:18080/svn/web" />
+        <option value="https://47.94.103.7:18080/svn/saas_business/trunk" />
+        <option value="https://47.94.103.7:18080/svn/saas_mes_business/trunk/service/" />
+        <option value="https://47.94.103.7:18080/svn/codereview" />
+        <option value="https://47.94.103.7:18080/svn/saas_business" />
+        <option value="https://47.94.103.7:18080/svn/saas_sys" />
+        <option value="https://47.94.103.7:18080/svn/base_frame_pro/base_frame_pro" />
+        <option value="https://47.94.103.7:18080/svn/base_frame_pro/see_generator" />
+        <option value="https://47.94.103.7:18080/svn/spring_cloud_dev" />
+        <option value="https://47.94.103.7:18080/svn/apartmentcheckapi" />
+        <option value="http://192.168.1.225/svn/development/BJYQ/YQ_BIGlaw" />
+        <option value="https://192.168.35.128/svn/shop08" />
+        <option value="https://192.168.35.128/svn/CRM08" />
+        <option value="http://192.168.35.128/svn/CRM08" />
+        <option value="https://Administrator:444/svn/test/" />
+      </list>
+    </option>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.I">
+    <pattern>*</pattern>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.ServerConfigurations">
+    <servers>
+      <general label="Redis:6369" host="192.168.200.114" port="6369" password="Redis_1231_*!" timestamp="1498617381008" />
+    </servers>
+    <servers>
+      <general label="Redis:6370" host="192.168.200.114" port="6370" password="Redis_1231_*!" timestamp="1498617593852" />
+    </servers>
+  </component>
+</application>

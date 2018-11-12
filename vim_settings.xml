@@ -1,0 +1,239 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Nustore Files/我的坚果云/code/8081_1/business_system_service/src/main/java/com/see/modules/sys/service/impl/RmDeptServiceImpl.java" timestamp="1529059044205" />
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/webapp/jsp/fmsj/house/tsigncontract/listTSignContract.jsp" timestamp="1529048138239" />
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/com.platform.service/src/main/java/org/quickbundle/project/common/service/impl/RmCommonService.java" timestamp="1528973849185" />
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/webapp/jsp/fmsj/house/thousecollect/readTHouseCollect.jsp" timestamp="1529068648584">
+        <mark key="[" line="548" column="49" />
+      </file>
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/java/com/fmsj/house/tsignup/util/UUIDUtils.java" timestamp="1529059175666">
+        <mark key="[" line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/com.platform.service/src/main/java/ut/ap/soa/user/impl/RmUser2JsprunService.java" timestamp="1528974292127" />
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/webapp/js/lfy/datatables/extras/AutoFill/index.html" timestamp="1528986033548" />
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/webapp/jsp/fmsj/house/tsigncontract/insertTSignReturnInfo.jsp" timestamp="1529069110511">
+        <mark key="[" line="345" column="15" />
+        <mark key="]" line="129" column="30" />
+        <mark key="." line="129" column="30" />
+      </file>
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/webapp/jsp/include/dialog.jsp" timestamp="1529048837263" />
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/java/com/fmsj/house/tsigncontract/dao/impl/TSignContractDao.java" timestamp="1528972460541">
+        <mark key="[" line="52" column="969" />
+      </file>
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/java/com/fmsj/house/thousecollect/web/THouseCollectAction.java" timestamp="1529065164793">
+        <mark key="[" line="194" column="55" />
+        <mark key="]" line="194" column="55" />
+        <mark key="." line="194" column="55" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/3.1.0.RELEASE/spring-jdbc-3.1.0.RELEASE-sources.jar!/org/springframework/jdbc/core/JdbcTemplate.java" timestamp="1528975732467" />
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/webapp/WEB-INF/config/rm/rmCluster.xml" timestamp="1529126717856">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/java/com/fmsj/house/tsignup/util/ITSignUpConstants.java" timestamp="1528977475764">
+        <mark key="[" line="40" column="255" />
+      </file>
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/webapp/jsp/fmsj/house/tsigncontract/insertTSignContract.jsp" timestamp="1528979827952">
+        <mark key="[" line="98" column="32" />
+        <mark key="]" line="98" column="32" />
+        <mark key="." line="98" column="32" />
+      </file>
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/java/com/fmsj/house/tsignup/service/impl/TSignUpService.java" timestamp="1528984048714">
+        <mark key="[" line="242" column="27" />
+        <mark key="]" line="242" column="27" />
+        <mark key="." line="242" column="27" />
+      </file>
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/java/com/fmsj/house/thousecollectcontract/dao/impl/THouseCollectContractDao.java" timestamp="1529060151724">
+        <mark key="[" line="50" column="12" />
+      </file>
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/java/com/fmsj/house/thousecollect/dao/impl/THouseCollectDao.java" timestamp="1529060001896">
+        <mark key="[" line="52" column="12" />
+      </file>
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/java/com/fmsj/house/thousecollect/service/impl/THouseCollectService.java" timestamp="1529058686313">
+        <mark key="[" line="334" column="26" />
+        <mark key="]" line="334" column="26" />
+        <mark key="." line="334" column="26" />
+      </file>
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/java/com/fmsj/house/tsignup/dao/impl/TSignUpDao.java" timestamp="1528988892087">
+        <mark key="[" line="240" column="8" />
+        <mark key="]" line="172" column="81" />
+        <mark key="." line="172" column="81" />
+      </file>
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/webapp/WEB-INF/config/jdbc/memcached.properties" timestamp="1529126066216" />
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/Phd_dm/trunk/phd-V1.0/phd/fmb.fygl/src/main/webapp/jsp/include/page.jsp" timestamp="1528990263017" />
+      <file name="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/java/com/fmsj/house/tsigncontract/web/TSignContractAction.java" timestamp="1529069331897">
+        <mark key="[" line="185" column="51" />
+        <mark key="]" line="146" column="29" />
+        <mark key="." line="146" column="29" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="28" column="28" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka-service/src/main/java/com/lxyer/eurekaservice/controller/TestController.java" />
+      <jump line="23" column="27" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka-service/src/main/java/com/lxyer/eurekaservice/controller/TestController.java" />
+      <jump line="13" column="1" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka-service/src/main/java/com/lxyer/eurekaservice/controller/TestController.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka-service/src/main/java/com/lxyer/eurekaservice/controller/TestController.java" />
+      <jump line="17" column="2" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka-service/src/main/java/com/lxyer/eurekaservice/controller/TestController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka-service/src/main/java/com/lxyer/eurekaservice/controller/TestController.java" />
+      <jump line="27" column="18" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka-service/src/main/java/com/lxyer/eurekaservice/controller/TestController.java" />
+      <jump line="26" column="18" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka-service/src/main/java/com/lxyer/eurekaservice/controller/TestController.java" />
+      <jump line="33" column="84" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka-service/src/main/java/com/lxyer/eurekaservice/controller/TestController.java" />
+      <jump line="32" column="28" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka-service/src/main/java/com/lxyer/eurekaservice/controller/TestController.java" />
+      <jump line="31" column="28" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka-service/src/main/java/com/lxyer/eurekaservice/controller/TestController.java" />
+      <jump line="29" column="28" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka-service/src/main/java/com/lxyer/eurekaservice/controller/TestController.java" />
+      <jump line="30" column="8" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka-service/src/main/java/com/lxyer/eurekaservice/controller/TestController.java" />
+      <jump line="21" column="25" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka-service/src/main/java/com/lxyer/eurekaservice/controller/TestController.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka-service/src/main/java/com/lxyer/eurekaservice/controller/TestController.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka/src/main/resources/application.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Nustore Files/我的坚果云/code/eureka/src/main/resources/application.yml" />
+      <jump line="16" column="36" filename="$USER_HOME$/Nustore Files/我的坚果云/code/zuul/src/main/resources/application.yml" />
+      <jump line="5" column="5" filename="$USER_HOME$/Nustore Files/我的坚果云/code/SAAS/zuul/src/main/java/com/see/zuul/Test.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Nustore Files/我的坚果云/code/SAAS/system-service/src/main/java/com/see/modules/sys/controller/AbstractController.java" />
+      <jump line="8" column="1" filename="$USER_HOME$/Nustore Files/我的坚果云/code/SAAS/system-service/src/main/java/com/see/modules/sys/controller/AbstractController.java" />
+      <jump line="18" column="4" filename="$USER_HOME$/Nustore Files/我的坚果云/code/SAAS/eureka/src/main/resources/application.yml" />
+      <jump line="44" column="39" filename="$USER_HOME$/Nustore Files/我的坚果云/code/SAAS/system-service/src/main/java/com/see/modules/sys/service/impl/CompanyServiceImpl.java" />
+      <jump line="41" column="12" filename="$USER_HOME$/Nustore Files/我的坚果云/code/SAAS/system-service/src/main/java/com/see/modules/sys/entity/CompanyEntity.java" />
+      <jump line="146" column="53" filename="$USER_HOME$/Nustore Files/我的坚果云/code/SAAS/service/src/main/java/com/see/modules/sys/controller/RmEmployeeController.java" />
+      <jump line="132" column="12" filename="$USER_HOME$/Nustore Files/我的坚果云/code/SAAS/service/src/main/java/com/see/modules/sys/entity/RmEmployeeEntity.java" />
+      <jump line="115" column="16" filename="$USER_HOME$/Nustore Files/我的坚果云/code/SAAS/mes-stock-service/src/main/resources/mapper/sys/StockDao.xml" />
+      <jump line="22" column="35" filename="$USER_HOME$/Nustore Files/我的坚果云/code/SAAS/mes-stock-service/src/main/java/com/see/modules/sys/vo/StockSearchVo.java" />
+      <jump line="22" column="61" filename="$USER_HOME$/Desktop/saas-mes_v0.1_20180210_wxd/src/components/basics/businessDic.vue" />
+      <jump line="161" column="0" filename="$USER_HOME$/Desktop/saas/saas-mes_v0.1_20180210_wxd/src/components/assist/businessDictionary.vue" />
+      <jump line="294" column="31" filename="$USER_HOME$/Desktop/saas/saas-mes_v0.1_20180210_wxd/src/components/assist/businessDictionary.vue" />
+      <jump line="8" column="33" filename="$USER_HOME$/Desktop/saas/saas-mes_v0.1_20180210_wxd/src/components/assist/businessSetting.vue" />
+      <jump line="9" column="52" filename="$USER_HOME$/Desktop/saas/saas-mes_v0.1_20180210_wxd/src/components/assist/businessSetting.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/saas/saas-mes_v0.1_20180210_wxd/src/components/assist/businessSetting.vue" />
+      <jump line="76" column="35" filename="$USER_HOME$/Desktop/saas/saas-mes_v0.1_20180210_wxd/src/components/assist/businessSetting.vue" />
+      <jump line="92" column="49" filename="$USER_HOME$/Desktop/saas/saas-mes_v0.1_20180210_wxd/src/components/assist/businessSetting.vue" />
+      <jump line="86" column="47" filename="$USER_HOME$/Desktop/saas/saas-mes_v0.1_20180210_wxd/src/components/assist/businessSetting.vue" />
+      <jump line="22" column="99" filename="$USER_HOME$/Desktop/saas/saas-mes_v0.1_20180210_wxd/src/components/layout.vue" />
+      <jump line="168" column="25" filename="$USER_HOME$/Desktop/saas/saas-mes_v0.1_20180210_wxd/src/components/productionExecution/productExchange.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/saas/saas-mes_v0.1_20180210_wxd/src/components/productionExecution/productExchange.vue" />
+      <jump line="294" column="20" filename="$USER_HOME$/Desktop/saas/saas-mes_v0.1_20180210_wxd/src/components/productionExecution/productExchange.vue" />
+      <jump line="69" column="35" filename="$USER_HOME$/Nustore Files/我的坚果云/code/SAAS/8011/src/main/java/com/see/modules/sys/service/impl/RmDeptServiceImpl.java" />
+      <jump line="216" column="16" filename="$USER_HOME$/Nustore Files/我的坚果云/code/SAAS/bigData/ftr_abc/src/main/resources/mapper/data/ConfigDao.xml" />
+      <jump line="46" column="48" filename="$USER_HOME$/Nustore Files/我的坚果云/code/SAAS/bigData/ftr_abc/src/main/java/com/ftr/modules/data/controller/PbomController.java" />
+      <jump line="894" column="39" filename="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/Phd_dm/trunk/phd-V1.0/phd/fmb.fygl/src/main/java/com/fmsj/kyGl/tkhxx/web/TKhXxAction.java" />
+      <jump line="243" column="4" filename="$USER_HOME$/Nustore Files/.hidden_shortcuts/Nutstore/HJ/fmb.fygl/src/main/java/com/fmsj/house/tsignup/service/impl/TSignUpService.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="d" type="4">
+        <text>id</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxmcm9tXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text />
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CSAgICBTdHJpbmcgYWEgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigiaWQiKTsK</text>
+      </register>
+      <register name="2" type="4">
+        <text>id</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CSAgICAgICAgICAgIDx0ZCBjbGFzcz0idGFibGVfYXR0cl9jb2xfaW5wdXQiIHN0eWxlPSJmbG9hdDogO3dpZHRoOiAyMDBweDsiPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkJCTxkaXYgY2xhc3M9ImNvbC14cy00ICI+KuW6j+WPty/lupfpk7rlkI3np7Dnp7A8L2Rpdj4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQlmYXVsdExpc3QuYWRkKGZhdWx0RW50aXR5KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQlmYXVsdExpc3QuYWRkKGZhdWx0RW50aXR5KTsK</text>
+      </register>
+      <register name="7" type="4">
+        <text>{
+					}
+//					if(&quot;all&quot;.equalsIgnoreCase(map.get(&quot;maType&quot;) + &quot;&quot;)){
+//						faultList.add(faultEntity);
+//					}</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB1cmw6IGpkYmM6bXlzcWw6Ly9ybS04dmIyODR5N2o5ODI0eDc1ZG8ubXlzcWwuemhhbmdiZWkucmRzLmFsaXl1bmNzLmNvbS9mdHJfZHNqX2dhdGhlcj9hbGxvd011bHRpUXVlcmllcz10cnVlJnVzZVVuaWNvZGU9dHJ1ZSZjaGFyYWN0ZXJFbmNvZGluZz1VVEYtOAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CTxzZWxlY3QgaWQ9InF1ZXJ5TGlzdCIgcmVzdWx0VHlwZT0iY29tLmZ0ci5tb2R1bGVzLmRhdGEuZW50aXR5LkVib21FbnRpdHkiPgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>6</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxmcm9tXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxmcm9tXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>hello</entry>
+        <entry>he</entry>
+        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
+        <entry encoding="base64">XDxGUk9NXD4=</entry>
+        <entry encoding="base64">XDwnXD4=</entry>
+        <entry encoding="base64">XDxmcm9tXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>g22</entry>
+        <entry>22</entry>
+        <entry>51</entry>
+        <entry>37</entry>
+        <entry>29 co 40</entry>
+        <entry>29,30 co 38</entry>
+        <entry>33</entry>
+        <entry>g6</entry>
+        <entry>g2</entry>
+        <entry>2</entry>
+        <entry>6</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

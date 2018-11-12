@@ -1,0 +1,82 @@
+<keymap version="1" name="Eclipse lxyer" parent="Eclipse">
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="CodeCompletion" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.Oracle.DbmsOutput">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+  </action>
+  <action id="CreateJavaeeWebPageAction">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.UpdatedFiles" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FindBugs.ShowQuickSearch" />
+  <action id="Gsonformat" />
+  <action id="Macro.ReBuild">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="NewHtmlFile">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="NewJavaScriptFile">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="SaveAll" />
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="ShowContent" />
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+  </action>
+  <action id="UpdateFiles">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="Vcs.Log.ShowDiff" />
+  <action id="VimMotionNextTab">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="VimMotionPreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>

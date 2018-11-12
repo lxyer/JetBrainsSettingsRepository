@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="ReBuild">
+      <action id="CompileDirty" />
+    </macro>
+  </component>
+</application>

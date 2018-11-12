@@ -1,0 +1,146 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateQuickNotesToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta alt n" />
+  </action>
+  <action id="BaseOnThisFunction" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="CloudConfigAction">
+    <keyboard-shortcut first-keystroke="shift meta alt s" />
+  </action>
+  <action id="Compare.LastVersion">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="CopyThenJumpPaste" />
+  <action id="CopyWithoutSelect" />
+  <action id="Debug" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="GenerateJavadoc">
+    <keyboard-shortcut first-keystroke="shift ctrl meta d" />
+  </action>
+  <action id="GuiDesigner.QuickJavadoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="HighlightNextSymbol" />
+  <action id="HighlightPrevSymbol" />
+  <action id="Images.SetBackgroundImage">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="JustOneSpace" />
+  <action id="MarkdownNavigator.ToggleItalic" />
+  <action id="MethodDuplicates">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="Mvc.Upgrade">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchy.BaseOnThisType" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="UpdateFiles">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="VimMotionNextTab">
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
+  </action>
+  <action id="VimMotionPreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
+  </action>
+  <action id="emacsIDEAs.AceJump" />
+  <action id="emacsIDEAs.AceJumpAndReplace.Block" />
+  <action id="emacsIDEAs.AceJumpAndReplace.Group" />
+  <action id="emacsIDEAs.AceJumpAndReplace.Line" />
+  <action id="emacsIDEAs.AceJumpAndReplace.Paragraph" />
+  <action id="emacsIDEAs.AceJumpAndReplace.Quote" />
+  <action id="emacsIDEAs.AceJumpAndReplace.String" />
+  <action id="emacsIDEAs.AceJumpAndReplace.ToLineEnd" />
+  <action id="emacsIDEAs.AceJumpAndReplace.ToLineStart" />
+  <action id="emacsIDEAs.AceJumpAndReplace.ToParagraphEnd" />
+  <action id="emacsIDEAs.AceJumpAndReplace.ToParagraphStart" />
+  <action id="emacsIDEAs.AceJumpAndReplace.Word" />
+  <action id="emacsIDEAs.AceJumpCopy" />
+  <action id="emacsIDEAs.AceJumpCut" />
+  <action id="emacsIDEAs.AceJumpDelete.Block" />
+  <action id="emacsIDEAs.AceJumpDelete.Group" />
+  <action id="emacsIDEAs.AceJumpDelete.Line" />
+  <action id="emacsIDEAs.AceJumpDelete.Paragraph" />
+  <action id="emacsIDEAs.AceJumpDelete.Quote" />
+  <action id="emacsIDEAs.AceJumpDelete.String" />
+  <action id="emacsIDEAs.AceJumpDelete.ToLineEnd" />
+  <action id="emacsIDEAs.AceJumpDelete.ToLineStart" />
+  <action id="emacsIDEAs.AceJumpDelete.ToParagraphEnd" />
+  <action id="emacsIDEAs.AceJumpDelete.ToParagraphStart" />
+  <action id="emacsIDEAs.AceJumpDelete.Word" />
+  <action id="emacsIDEAs.AceJumpMove.Block" />
+  <action id="emacsIDEAs.AceJumpMove.Group" />
+  <action id="emacsIDEAs.AceJumpMove.Line" />
+  <action id="emacsIDEAs.AceJumpMove.Paragraph" />
+  <action id="emacsIDEAs.AceJumpMove.Quote" />
+  <action id="emacsIDEAs.AceJumpMove.String" />
+  <action id="emacsIDEAs.AceJumpMove.ToLineEnd" />
+  <action id="emacsIDEAs.AceJumpMove.ToLineStart" />
+  <action id="emacsIDEAs.AceJumpMove.ToParagraphEnd" />
+  <action id="emacsIDEAs.AceJumpMove.ToParagraphStart" />
+  <action id="emacsIDEAs.AceJumpMove.Word" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Block" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Group" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Line" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Paragraph" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Quote" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.String" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.ToLineEnd" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.ToLineStart" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.ToParagraphEnd" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.ToParagraphStart" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Word" />
+  <action id="emacsIDEAs.AceJumpSelect" />
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+</keymap>

@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Groovy" />
+      <blacklist language="Java">
+        <added pattern="java.lang.Class.getMethod(name,parameterTypes)" />
+        <added pattern="org.hibernate.SharedSessionContract.createQuery(queryString)" />
+      </blacklist>
+    </blacklists>
+    <option id="java.multiple.params.same.type" value="true" />
+  </component>
+</application>
